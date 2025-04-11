@@ -5,6 +5,9 @@ This is my implementation of an E-book Reader, made entirely in Autodesk Fusion.
 ## Device
 ![Device](./Images/Device.png)
 
+## Exploded View
+![Exploded](./Images/Exploded_View.png)
+
 ## PCB
 ![PCB](./Images/PCB_TOP.png)
 
